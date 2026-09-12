@@ -1,0 +1,17 @@
+langchain
+langchain-openai
+python-dotenv
+langchain-community
+langchain-text-splitters
+
+flask
+pinecone[grpc]
+langchain-pinecone
+langchain-experimental
+
+sentence-transformers
+langchain-core
+langchain-classic
+transformers
+pypdf
+-e .
