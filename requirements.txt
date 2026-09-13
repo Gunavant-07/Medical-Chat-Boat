@@ -8,7 +8,7 @@ flask
 pinecone[grpc]
 langchain-pinecone
 langchain-experimental
-
+langchain-huggingface
 sentence-transformers
 langchain-core
 langchain-classic
